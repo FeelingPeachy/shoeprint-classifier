@@ -1,10 +1,7 @@
-HOW TO RUN:
+this project includes code for web scraping (scrapingv2.py), preprocessing(gui_ver2.py), and the final notebook containing classifiers(notebook6.ipynb).
 
-As we have discussed this dissertation involves code for web scraping (scrapingv2.py), preprocessing(gui_ver2.py), and the final notebook containing classifiers(notebook6.ipynb).
-
-we must note that there is already a dataset contained within the shoeproj folder that was created using these scripts, so
-you dont have to run all programs to formulate the dataset and can instead run the notebook. To access this dataset, please download the code zip attached to the one drive as the dataset file was too large to include in this submission. hence this folder doesnt contain dataset entries.
-
+note that there is already a dataset contained within the shoeproj folder that was created using these scripts, so
+you dont have to run all programs to formulate the dataset and can instead run the notebook. To access this dataset, please download the code zip attached to the one drive as the dataset file was too large to include, hence this folder doesnt contain dataset entries.
 
 To run the notebook, the key things to be aware of this the directorys for CNN data are hard coded, so they must be modified for
 your enviroment. Moreover, note that we use a noSQL mongoose database to fetch extracted features. To this end i have supplied my key to
